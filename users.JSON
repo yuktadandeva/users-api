@@ -1,0 +1,48 @@
+{
+    "_id": {
+        "$oid": "66a2195e7be1cb9c23c01e43"
+    },
+    "name": "Yukta Dandeva",
+    "userId": "@yuktadandeva",
+    "email": "yuktadandeva@gmail.com",
+    "phoneNumber": "890100000",
+    "password": "yukta",
+    "friendList": [
+        {
+            "name": "Rekha",
+            "id": "@rekha"
+        },
+        {
+            "name": "Asha Bhosle",
+            "id": "@bhosle234"
+        },
+        {
+            "name": "Lata Mangeshkar",
+            "id": "@therealLata"
+        },
+        {
+            "name": "ABC",
+            "id": "@ABC"
+        },
+        {
+            "name": "XYZ",
+            "id": "@XYZ"
+        },
+        {
+            "name": "KLM Mangeshkar",
+            "id": "@KLM"
+        },
+        {
+            "name": "NOP",
+            "id": "@NOP"
+        },
+        {
+            "name": "ish",
+            "id": "@ish"
+        },
+        {
+            "name": "kith raj",
+            "id": "@raj"
+        }
+    ]
+}
