@@ -2,34 +2,34 @@
     "_id": {
         "$oid": "66a2195e7be1cb9c23c01e43"
     },
-    "name": "Yukta Dandeva",
-    "userId": "@yuktadandeva",
-    "email": "yuktadandeva@gmail.com",
+    "name": "Amit Srivastava",
+    "userId": "@amit",
+    "email": "amitS@gmail.com",
     "phoneNumber": "890100000",
-    "password": "yukta",
+    "password": "amit",
     "friendList": [
         {
-            "name": "Rekha",
-            "id": "@rekha"
+            "name": "yukta dandeva",
+            "id": "@yuktadandeva"
         },
         {
-            "name": "Asha Bhosle",
-            "id": "@bhosle234"
+            "name": "Janvi Charak",
+            "id": "@janviCharak"
         },
         {
-            "name": "Lata Mangeshkar",
-            "id": "@therealLata"
+            "name": "Janvi Singh",
+            "id": "@janviSingh"
         },
         {
-            "name": "ABC",
-            "id": "@ABC"
+            "name": "Aditya Singh",
+            "id": "@aditya singh"
         },
         {
             "name": "XYZ",
             "id": "@XYZ"
         },
         {
-            "name": "KLM Mangeshkar",
+            "name": "KLM ",
             "id": "@KLM"
         },
         {
