@@ -45,28 +45,34 @@
             "id": "@raj"
         }
     ]
-},{
-            "name": "Rekha",
-            "id": "@rekha"
+},{ "name": "abc",
+    "userId": "@abc",
+    "email": "yuktadandeva@gmail.com",
+    "phoneNumber": "890100000",
+    "password": "abc",
+    "friendList": [
+        {
+            "name": "yukta dandeva",
+            "id": "@yuktadandeva"
         },
         {
-            "name": "Asha Bhosle",
-            "id": "@bhosle234"
+            "name": "Janvi Charak",
+            "id": "@janviCharak"
         },
         {
-            "name": "Lata Mangeshkar",
-            "id": "@therealLata"
+            "name": "Janvi Singh",
+            "id": "@janviSingh"
         },
         {
-            "name": "ABC",
-            "id": "@ABC"
+            "name": "Aditya Singh",
+            "id": "@aditya singh"
         },
         {
             "name": "XYZ",
             "id": "@XYZ"
         },
         {
-            "name": "KLM Mangeshkar",
+            "name": "KLM ",
             "id": "@KLM"
         },
         {
@@ -80,4 +86,91 @@
         {
             "name": "kith raj",
             "id": "@raj"
-        }]
+        }
+    ]},{"name": "dushyant sheoran",
+    "userId": "@dushyantsheoran",
+    "email": "yuktadandeva@gmail.com",
+    "phoneNumber": "890100000",
+    "password": "dushyant",
+    "friendList": [
+        {
+            "name": "yukta dandeva",
+            "id": "@yuktadandeva"
+        },
+        {
+            "name": "Janvi Charak",
+            "id": "@janviCharak"
+        },
+        {
+            "name": "Janvi Singh",
+            "id": "@janviSingh"
+        },
+        {
+            "name": "Aditya Singh",
+            "id": "@aditya singh"
+        },
+        {
+            "name": "XYZ",
+            "id": "@XYZ"
+        },
+        {
+            "name": "KLM ",
+            "id": "@KLM"
+        },
+        {
+            "name": "NOP",
+            "id": "@NOP"
+        },
+        {
+            "name": "ish",
+            "id": "@ish"
+        },
+        {
+            "name": "kith raj",
+            "id": "@raj"
+        }
+    ]},{
+    "name": "stranger",
+    "userId": "@stranger",
+    "email": "yuktadandeva@gmail.com",
+    "phoneNumber": "890100000",
+    "password": "stranger",
+    "friendList": [
+        {
+            "name": "yukta dandeva",
+            "id": "@yuktadandeva"
+        },
+        {
+            "name": "Janvi Charak",
+            "id": "@janviCharak"
+        },
+        {
+            "name": "Janvi Singh",
+            "id": "@janviSingh"
+        },
+        {
+            "name": "Aditya Singh",
+            "id": "@aditya singh"
+        },
+        {
+            "name": "XYZ",
+            "id": "@XYZ"
+        },
+        {
+            "name": "KLM ",
+            "id": "@KLM"
+        },
+        {
+            "name": "NOP",
+            "id": "@NOP"
+        },
+        {
+            "name": "ish",
+            "id": "@ish"
+        },
+        {
+            "name": "kith raj",
+            "id": "@raj"
+        }
+    ]
+    }
