@@ -2,11 +2,11 @@
     "_id": {
         "$oid": "66a2195e7be1cb9c23c01e43"
     },
-    "name": "Amit Srivastava",
-    "userId": "@amit",
-    "email": "amitS@gmail.com",
+    "name": "yukta dandeva",
+    "userId": "@yuktadandeva",
+    "email": "yuktadandeva@gmail.com",
     "phoneNumber": "890100000",
-    "password": "amit",
+    "password": "yukta",
     "friendList": [
         {
             "name": "yukta dandeva",
