@@ -5,6 +5,7 @@
     "name": "yukta dandeva",
     "userId": "@yuktadandeva",
     "email": "yuktadandeva@gmail.com",
+    "userImg":"https://i.pinimg.com/564x/54/f7/ad/54f7ad12df793e9814e08e74d907223c.jpg",
     "phoneNumber": "890100000",
     "password": "yukta",
     "friendList": [
@@ -45,11 +46,12 @@
             "id": "@raj"
         }
     ]
-},{ "name": "abc",
-    "userId": "@abc",
+},{ "name": "bubbles",
+    "userId": "@bubbles",
     "email": "yuktadandeva@gmail.com",
+    "userImg":"https://i.pinimg.com/564x/b8/ec/8e/b8ec8ed4232fd052f4c480749e6c6e0d.jpg",
     "phoneNumber": "890100000",
-    "password": "abc",
+    "password": "bubbles",
     "friendList": [
         {
             "name": "yukta dandeva",
@@ -89,6 +91,7 @@
         }
     ]},{"name": "dushyant sheoran",
     "userId": "@dushyantsheoran",
+     "userImg":"https://i.pinimg.com/564x/d7/1b/ec/d71bec3fc522cfb3ca6e15594deeaa0b.jpg",
     "email": "yuktadandeva@gmail.com",
     "phoneNumber": "890100000",
     "password": "dushyant",
@@ -130,11 +133,12 @@
             "id": "@raj"
         }
     ]},{
-    "name": "stranger",
-    "userId": "@stranger",
+    "name": "buttercup",
+    "userId": "@buttercup",
     "email": "yuktadandeva@gmail.com",
+    "userImg":"https://i.pinimg.com/474x/2b/3d/ca/2b3dca686fdfff8c7170577748f96773.jpg",
     "phoneNumber": "890100000",
-    "password": "stranger",
+    "password": "buttercup",
     "friendList": [
         {
             "name": "yukta dandeva",
